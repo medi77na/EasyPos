@@ -38,3 +38,5 @@ E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Web.Api\obj\Deb
 E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Web.Api\obj\Debug\net8.0\Web.Api.pdb
 E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Web.Api\obj\Debug\net8.0\Web.Api.genruntimeconfig.cache
 E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Web.Api\obj\Debug\net8.0\ref\Web.Api.dll
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Web.Api\bin\Debug\net8.0\MediatR.dll
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Web.Api\bin\Debug\net8.0\MediatR.Contracts.dll

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cF7yGcLwCpF2n/8ir2iivZdQJvE5+8BFhWhYXlVwr9IUfMJIamRSshjB0BvMfrtRiS2HdH+5vle1sXfibw58AQ==",
+  "dgSpecHash": "w8isc5k79CGOi7wPEl95MC0kyy1zAK3MdDFUFRMlCq73YBwv5CUnXb8f+36EMFDXNyqsyIBvQVz0xv3n8DWrEg==",
   "success": true,
   "projectFilePath": "E:\\Desarrollo\\Back\\CSharp\\Desarrollos\\ArquitecturaLimpia\\EasyPos\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
