@@ -1,0 +1,12 @@
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Domain\bin\Debug\net8.0\Domain.dll
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Domain\obj\Debug\net8.0\Domain.dll
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Domain\obj\Debug\net8.0\ref\Domain.dll

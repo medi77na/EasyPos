@@ -1,0 +1,16 @@
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\bin\Debug\net8.0\Application.deps.json
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\bin\Debug\net8.0\Application.dll
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\bin\Debug\net8.0\Application.pdb
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\bin\Debug\net8.0\Domain.dll
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\bin\Debug\net8.0\Domain.pdb
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\obj\Debug\net8.0\Application.sourcelink.json
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\obj\Debug\net8.0\Application.dll
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\obj\Debug\net8.0\refint\Application.dll
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\obj\Debug\net8.0\Application.pdb
+E:\Desarrollo\Back\CSharp\Desarrollos\ArquitecturaLimpia\EasyPos\Application\obj\Debug\net8.0\ref\Application.dll
